@@ -1,0 +1,25 @@
+{
+    "emojis": [
+      { "id": 1, "symbol": "😀", "name": "Grinning face" },
+      { "id": 2, "symbol": "😂", "name": "Face with tears of joy" },
+      { "id": 3, "symbol": "🤔", "name": "Thinking face" },
+      { "id": 4, "symbol": "🚀", "name": "Rocket" },
+      { "id": 5, "symbol": "🌸", "name": "Cherry blossom" },
+      { "id": 6, "symbol": "🍕", "name": "Pizza" },
+      { "id": 7, "symbol": "🐶", "name": "Dog face" },
+      { "id": 8, "symbol": "🌍", "name": "Globe showing Europe-Africa" },
+      { "id": 9, "symbol": "🏀", "name": "Basketball" },
+      { "id": 10, "symbol": "🎸", "name": "Guitar" },
+      { "id": 11, "symbol": "👻", "name": "Ghost" },
+      { "id": 12, "symbol": "🤖", "name": "Robot" },
+      { "id": 13, "symbol": "🍀", "name": "Four leaf clover" },
+      { "id": 14, "symbol": "🔥", "name": "Fire" },
+      { "id": 15, "symbol": "🎁", "name": "Wrapped gift" },
+      { "id": 16, "symbol": "📚", "name": "Books" },
+      { "id": 17, "symbol": "🌙", "name": "Crescent moon" },
+      { "id": 18, "symbol": "⭐", "name": "Star" },
+      { "id": 19, "symbol": "💼", "name": "Briefcase" },
+      { "id": 20, "symbol": "☕", "name": "Hot beverage" }
+    ]
+  }
+  
